@@ -22,3 +22,4 @@ python -m coverage xml
 SQLlite DB in instance folder
 If you clean the whole DB, you'll need to register a user first to login.
 web hook testing by sridhar 
+why it is not working
